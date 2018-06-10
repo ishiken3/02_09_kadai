@@ -50,7 +50,7 @@
                                       <h4 class="title">ログイン</h4>
                                   </div>
                                   <div class="form-group">
-                                    <label for="exampleInputEmail1">ID</label>
+                                    <label for="exampleInputEmail1">ID/id</label>
                                     <input type="text" class="form-control border-input" name="lid">
                                 </div>
                                 <div class="form-group">
